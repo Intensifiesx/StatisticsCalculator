@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "*.rmd": "markdown",
+    "iosfwd": "cpp",
+    "iostream": "cpp",
+    "ostream": "cpp",
+    "cmath": "cpp",
+    "complex": "cpp",
+    "iomanip": "cpp"
+  }
+}
